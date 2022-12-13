@@ -96,3 +96,40 @@
     .secundario__descricao{
         padding: 2em;
     }
+
+    .container__dispositivo{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .dispositivo__intens{
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .rodape{
+        margin: 10em 0;
+        text-align: center;
+    }
+
+    .rodape__logo{
+        margin: auto;
+    }
+
+    .rodape__lista{
+        display: flex;
+        justify-content: center;  
+    }
+
+    .lista__link{
+        padding: 3em 0.5em 1.5em 0.5em;
+    }
+
+    .rodape__texto{
+        color: var(--cor-fonte-secundaria);
+        padding: 1em 20em;
+    }
+
+    .lista__link a:hover{
+        color: var(--cor-botao);
+    }
