@@ -36,3 +36,6 @@
 - `Funcionalidade 1`: Apresentação dos beneficios do Combo+
 - `Funcionalidade 2`: Descrição da responsividade do acesso
 - `Funcionalidade 3`: Encaminhar o consumidor a aba de compras
+
+![Beneficios Combo+](https://user-images.githubusercontent.com/109036024/207731182-977d9d14-263b-45b3-855a-1ea5563928a7.png)
+
