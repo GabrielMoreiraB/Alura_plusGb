@@ -1,3 +1,6 @@
+
+
+
 # Combo Alura+
  
 ![Combo](https://user-images.githubusercontent.com/109036024/207724190-2fa9e436-7d47-492f-a3bb-be6635b29e58.png)
@@ -8,7 +11,6 @@
 # Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -19,3 +21,8 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+# Descrição do Projeto
+
+<p>Projeto desenvolvido no curso de HTML/CSS responsivo da Alura que teve por objetivo criar uma landing page do Alura Combo+</p>
+<p>O Alura Combo+ é um programa que uniu Alura e Alura Linguas. A criação da pagina permitiu trabalhar diversos temas dentro do html/css como grid e flex box e suas implicações</p>
