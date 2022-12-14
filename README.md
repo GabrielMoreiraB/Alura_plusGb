@@ -41,5 +41,14 @@
 
 # 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+<p> Você pode acessar o código do projeto diretamente  
+<a href="https://github.com/GabrielMoreiraB/Alura_plusGb">aqui</a>
+
+# :white_check_mark: Técnicas e tecnologias Utilizadas
+- `HTML`
+- `CSS
+
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Gabriel Moreira</sub>](https://github.com/GabrielMoreiraB) `
 
