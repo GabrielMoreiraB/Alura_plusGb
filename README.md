@@ -5,8 +5,8 @@
  
 ![Combo](https://user-images.githubusercontent.com/109036024/207724190-2fa9e436-7d47-492f-a3bb-be6635b29e58.png)
 
-![licença](https://img.shields.io/apm/l/Alura%20plus?style=plastic)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=plastic)
+<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
 # Índice 
 
@@ -50,5 +50,10 @@
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Gabriel Moreira</sub>](https://github.com/GabrielMoreiraB) `
+| [<img src="https://user-images.githubusercontent.com/109036024/207732994-cce95473-08a3-419e-ace8-adee4b4fa3f2.jpg" width=115><br><sub>Gabriel Moreira</sub>](https://github.com/GabrielMoreiraB) `
 
+# Licença 
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: Ano - Alura Combo+
