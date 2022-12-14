@@ -24,5 +24,15 @@
 
 # Descrição do Projeto
 
-<p>Projeto desenvolvido no curso de HTML/CSS responsivo da Alura que teve por objetivo criar uma landing page do Alura Combo+</p>
-<p>O Alura Combo+ é um programa que uniu Alura e Alura Linguas. A criação da pagina permitiu trabalhar diversos temas dentro do html/css como grid e flex box e suas implicações</p>
+<p>Projeto desenvolvido no curso de HTML/CSS responsivo da Alura que teve por objetivo criar uma landing page do Alura Combo+.</p>
+<p>O Alura Combo+ é um programa que uniu Alura e Alura Linguas. A criação da pagina permitiu trabalhar diversos temas dentro do html/css como grid e flex box e suas implicações.</p>
+
+<h4 align="center"> 
+    :white_check_mark:  Projeto Finalizado  :white_check_mark:
+</h4>
+
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Apresentação dos beneficios do Combo+
+- `Funcionalidade 2`: Descrição da responsividade do acesso
+- `Funcionalidade 3`: Encaminhar o consumidor a aba de compras
